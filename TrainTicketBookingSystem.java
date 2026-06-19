@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Ticket {
     private String passengerName;
     private int seatNumber;
